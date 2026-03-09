@@ -1,0 +1,15 @@
+C:\Users\US\vl\VLSC_cautrucdulieuvagiaithuat\DSA_Lesson1\bin\Debug\net8.0\DSA_Lesson1.exe
+C:\Users\US\vl\VLSC_cautrucdulieuvagiaithuat\DSA_Lesson1\bin\Debug\net8.0\DSA_Lesson1.deps.json
+C:\Users\US\vl\VLSC_cautrucdulieuvagiaithuat\DSA_Lesson1\bin\Debug\net8.0\DSA_Lesson1.runtimeconfig.json
+C:\Users\US\vl\VLSC_cautrucdulieuvagiaithuat\DSA_Lesson1\bin\Debug\net8.0\DSA_Lesson1.dll
+C:\Users\US\vl\VLSC_cautrucdulieuvagiaithuat\DSA_Lesson1\bin\Debug\net8.0\DSA_Lesson1.pdb
+C:\Users\US\vl\VLSC_cautrucdulieuvagiaithuat\DSA_Lesson1\obj\Debug\net8.0\DSA_Lesson1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\US\vl\VLSC_cautrucdulieuvagiaithuat\DSA_Lesson1\obj\Debug\net8.0\DSA_Lesson1.AssemblyInfoInputs.cache
+C:\Users\US\vl\VLSC_cautrucdulieuvagiaithuat\DSA_Lesson1\obj\Debug\net8.0\DSA_Lesson1.AssemblyInfo.cs
+C:\Users\US\vl\VLSC_cautrucdulieuvagiaithuat\DSA_Lesson1\obj\Debug\net8.0\DSA_Lesson1.csproj.CoreCompileInputs.cache
+C:\Users\US\vl\VLSC_cautrucdulieuvagiaithuat\DSA_Lesson1\obj\Debug\net8.0\DSA_Lesson1.sourcelink.json
+C:\Users\US\vl\VLSC_cautrucdulieuvagiaithuat\DSA_Lesson1\obj\Debug\net8.0\DSA_Lesson1.dll
+C:\Users\US\vl\VLSC_cautrucdulieuvagiaithuat\DSA_Lesson1\obj\Debug\net8.0\refint\DSA_Lesson1.dll
+C:\Users\US\vl\VLSC_cautrucdulieuvagiaithuat\DSA_Lesson1\obj\Debug\net8.0\DSA_Lesson1.pdb
+C:\Users\US\vl\VLSC_cautrucdulieuvagiaithuat\DSA_Lesson1\obj\Debug\net8.0\DSA_Lesson1.genruntimeconfig.cache
+C:\Users\US\vl\VLSC_cautrucdulieuvagiaithuat\DSA_Lesson1\obj\Debug\net8.0\ref\DSA_Lesson1.dll

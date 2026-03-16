@@ -1,0 +1,15 @@
+C:\Users\US\vl\VLSC_cautrucdulieuvagiaithuat\DSA_Session2\bin\Debug\net8.0\DSA_Session2.exe
+C:\Users\US\vl\VLSC_cautrucdulieuvagiaithuat\DSA_Session2\bin\Debug\net8.0\DSA_Session2.deps.json
+C:\Users\US\vl\VLSC_cautrucdulieuvagiaithuat\DSA_Session2\bin\Debug\net8.0\DSA_Session2.runtimeconfig.json
+C:\Users\US\vl\VLSC_cautrucdulieuvagiaithuat\DSA_Session2\bin\Debug\net8.0\DSA_Session2.dll
+C:\Users\US\vl\VLSC_cautrucdulieuvagiaithuat\DSA_Session2\bin\Debug\net8.0\DSA_Session2.pdb
+C:\Users\US\vl\VLSC_cautrucdulieuvagiaithuat\DSA_Session2\obj\Debug\net8.0\DSA_Session2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\US\vl\VLSC_cautrucdulieuvagiaithuat\DSA_Session2\obj\Debug\net8.0\DSA_Session2.AssemblyInfoInputs.cache
+C:\Users\US\vl\VLSC_cautrucdulieuvagiaithuat\DSA_Session2\obj\Debug\net8.0\DSA_Session2.AssemblyInfo.cs
+C:\Users\US\vl\VLSC_cautrucdulieuvagiaithuat\DSA_Session2\obj\Debug\net8.0\DSA_Session2.csproj.CoreCompileInputs.cache
+C:\Users\US\vl\VLSC_cautrucdulieuvagiaithuat\DSA_Session2\obj\Debug\net8.0\DSA_Session2.sourcelink.json
+C:\Users\US\vl\VLSC_cautrucdulieuvagiaithuat\DSA_Session2\obj\Debug\net8.0\DSA_Session2.dll
+C:\Users\US\vl\VLSC_cautrucdulieuvagiaithuat\DSA_Session2\obj\Debug\net8.0\refint\DSA_Session2.dll
+C:\Users\US\vl\VLSC_cautrucdulieuvagiaithuat\DSA_Session2\obj\Debug\net8.0\DSA_Session2.pdb
+C:\Users\US\vl\VLSC_cautrucdulieuvagiaithuat\DSA_Session2\obj\Debug\net8.0\DSA_Session2.genruntimeconfig.cache
+C:\Users\US\vl\VLSC_cautrucdulieuvagiaithuat\DSA_Session2\obj\Debug\net8.0\ref\DSA_Session2.dll

@@ -1,0 +1,15 @@
+C:\Users\US\vl\VLSC_cautrucdulieuvagiaithuat\DSA_Session1\obj\Debug\net8.0\DSA_Session1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\US\vl\VLSC_cautrucdulieuvagiaithuat\DSA_Session1\obj\Debug\net8.0\DSA_Session1.AssemblyInfoInputs.cache
+C:\Users\US\vl\VLSC_cautrucdulieuvagiaithuat\DSA_Session1\obj\Debug\net8.0\DSA_Session1.AssemblyInfo.cs
+C:\Users\US\vl\VLSC_cautrucdulieuvagiaithuat\DSA_Session1\obj\Debug\net8.0\DSA_Session1.csproj.CoreCompileInputs.cache
+C:\Users\US\vl\VLSC_cautrucdulieuvagiaithuat\DSA_Session1\obj\Debug\net8.0\DSA_Session1.sourcelink.json
+C:\Users\US\vl\VLSC_cautrucdulieuvagiaithuat\DSA_Session1\bin\Debug\net8.0\DSA_Session1.exe
+C:\Users\US\vl\VLSC_cautrucdulieuvagiaithuat\DSA_Session1\bin\Debug\net8.0\DSA_Session1.deps.json
+C:\Users\US\vl\VLSC_cautrucdulieuvagiaithuat\DSA_Session1\bin\Debug\net8.0\DSA_Session1.runtimeconfig.json
+C:\Users\US\vl\VLSC_cautrucdulieuvagiaithuat\DSA_Session1\bin\Debug\net8.0\DSA_Session1.dll
+C:\Users\US\vl\VLSC_cautrucdulieuvagiaithuat\DSA_Session1\bin\Debug\net8.0\DSA_Session1.pdb
+C:\Users\US\vl\VLSC_cautrucdulieuvagiaithuat\DSA_Session1\obj\Debug\net8.0\DSA_Session1.dll
+C:\Users\US\vl\VLSC_cautrucdulieuvagiaithuat\DSA_Session1\obj\Debug\net8.0\refint\DSA_Session1.dll
+C:\Users\US\vl\VLSC_cautrucdulieuvagiaithuat\DSA_Session1\obj\Debug\net8.0\DSA_Session1.pdb
+C:\Users\US\vl\VLSC_cautrucdulieuvagiaithuat\DSA_Session1\obj\Debug\net8.0\DSA_Session1.genruntimeconfig.cache
+C:\Users\US\vl\VLSC_cautrucdulieuvagiaithuat\DSA_Session1\obj\Debug\net8.0\ref\DSA_Session1.dll

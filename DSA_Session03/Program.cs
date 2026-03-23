@@ -1,8 +1,10 @@
 ﻿using System;
 using System.Diagnostics;
-using System.Runtime.InteropServices.Marshalling;
-using System.Security.AccessControl;
 using System.Text;
+/*
+    Author: Phí Văn Công - 2500116169
+    Mục tiêu: So sánh hiệu năng giữa Linear Search và Binary Search trên mảng đã sắp xếp
+    */
 class Program
 {
     static void Main()

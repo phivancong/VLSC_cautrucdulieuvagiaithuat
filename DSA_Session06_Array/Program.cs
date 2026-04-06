@@ -2,12 +2,12 @@
 {
     class Program
     {
-        // Biến toàn cục (Global) để lưu trữ mảng đang làm việc
+       
         static int[] currentArray;
 
         static void Main(string[] args)
         {
-            int choice; // Biến để lưu lựa chọn của người dùng
+            int choice; 
             do
             {
                 Console.WriteLine("\n===============================");
@@ -52,7 +52,7 @@
             } while (choice != 0);
         }
 
-        // --- CÁC HÀM XỬ LÝ NGHIỆP VỤ ---
+       
 
         static void GenerateRandomArray()
         {
@@ -74,7 +74,7 @@
             Console.WriteLine($"=> Đã tạo mảng thành công với {n} phần tử!");
         }
 
-        // Hàm in mảng hiện tại
+      
         static void PrintArray()
         {
             if (currentArray == null)
@@ -91,7 +91,7 @@
             Console.WriteLine();
         }
 
-        // Hàm sắp xếp Bubble Sort
+       
         static void BubbleSort()
         {
             if (currentArray == null)
@@ -117,7 +117,7 @@
             Console.WriteLine("=> Đã sắp xếp mảng tăng dần bằng Bubble Sort!");
         }
 
-        // Hàm Binary Search
+        
         static void ExecuteBinarySearch()
         {
             if (currentArray == null)

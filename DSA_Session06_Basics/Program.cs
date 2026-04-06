@@ -14,7 +14,7 @@ namespace DSA_Session06_Basics
                 Console.WriteLine("1. Chức năng A");
                 Console.WriteLine("2. Chức năng B");
                 Console.WriteLine("0. Thoát chương trình");
-                Console.Write("Mời bạn chọn (0-2): ");
+                Console.Write("Mời bạn chọn : ");
 
                 choice = int.TryParse(Console.ReadLine(), out choice)
                     ? choice
@@ -31,7 +31,7 @@ namespace DSA_Session06_Basics
                         Console.WriteLine("Tạm biệt!");
                         break;
                     default:
-                        Console.WriteLine("Lựa chọn không hợp lệ, vui lòng nhập lại!");
+                        Console.WriteLine(" vui lòng nhập lại!");
                         break;
                 }
             } while (choice != 0);
